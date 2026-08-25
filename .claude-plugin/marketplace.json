@@ -1,0 +1,14 @@
+{
+  "name": "kongchou-cis",
+  "description": "港洲營建事業 CIS 品牌識別 skill 來源",
+  "owner": { "name": "chijanzen", "email": "" },
+  "plugins": [
+    {
+      "name": "kongchou-cis",
+      "description": "港洲營建事業 CIS：色彩／字體／logo／版型規範 + 簡報與網頁空白範本",
+      "version": "1.0.0",
+      "source": "./",
+      "author": { "name": "chijanzen", "email": "" }
+    }
+  ]
+}

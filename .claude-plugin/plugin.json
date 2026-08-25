@@ -1,0 +1,10 @@
+{
+  "name": "kongchou-cis",
+  "description": "港洲營建事業 CIS 品牌識別 skill：生成簡報／網頁／報告時套用色彩、字體、logo 與版型規範",
+  "version": "1.0.0",
+  "author": { "name": "chijanzen", "email": "" },
+  "homepage": "https://github.com/chijanzen/kongchou-cis",
+  "repository": "https://github.com/chijanzen/kongchou-cis",
+  "license": "MIT",
+  "keywords": ["skills", "cis", "brand", "港洲", "kong-chou", "construction", "presentation"]
+}

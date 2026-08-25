@@ -1,0 +1,49 @@
+{
+  "brand": {
+    "name_zh": "港洲營建事業",
+    "name_en": "KONG CHOU CONSTRUCTION ENTERPRISE",
+    "slogan_zh": "地平線上的新藝術",
+    "slogan_en": "The new art on horizon.",
+    "values": ["專業 Profession", "誠信 Integrity", "創新 Innovation"]
+  },
+  "colors": {
+    "brand_blue":  "#1B4E96",
+    "blue_dark":   "#143C74",
+    "blue_mid":    "#2E74C4",
+    "blue_soft":   "#E9F1FB",
+    "brand_green": "#2E9130",
+    "green_mid":   "#4CB749",
+    "green_soft":  "#EAF6E9",
+    "ink":         "#14243A",
+    "ink_soft":    "#4A5A6E",
+    "muted":       "#6B7887",
+    "line":        "#DCE4EE",
+    "paper":       "#F6F9FC",
+    "white":       "#FFFFFF"
+  },
+  "usage": {
+    "dominant": "brand_blue",
+    "secondary": "brand_green",
+    "accent": "green_mid",
+    "rule": "藍為主(60-70%)，綠為輔與強調；紅/金僅限節慶或禮盒，不用於一般簡報/網頁"
+  },
+  "fonts": {
+    "zh": "Noto Sans TC / Microsoft JhengHei",
+    "en": "Inter / Calibri",
+    "pairing": "中文標題粗體、英文副名全大寫加字距"
+  },
+  "logo": {
+    "mark": "三山「川」形，藍外綠中，下方基座橫桿，附 KONG CHOU 字標",
+    "files": ["assets/Kcce_logo.png", "assets/Kcce_logo_white.png", "assets/logo.svg"],
+    "on_dark": "assets/Kcce_logo_white.png",
+    "on_light": "assets/Kcce_logo.png"
+  },
+  "motif": "交疊三角形(綠/青/藍) + 半調網點(halftone dots)，置於封面/頁尾角落",
+  "contact": {
+    "address": "台中市西屯區工業區一路 68 號 12 樓",
+    "tel": "04-23584372",
+    "fax": "04-23587331",
+    "web": "www.kcce.com.tw"
+  },
+  "affiliates": ["港洲營造股份有限公司", "楹達營造股份有限公司", "洲建開發股份有限公司", "財團法人台中縣港洲教育基金會"]
+}

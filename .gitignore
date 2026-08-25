@@ -1,0 +1,7 @@
+# backups & OS cruft
+*.bak
+*.bak_*
+*.bak.*
+.DS_Store
+Thumbs.db
+*:Zone.Identifier

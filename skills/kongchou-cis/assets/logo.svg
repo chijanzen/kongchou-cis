@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300" fill="none">
+  <defs>
+    <linearGradient id="blueG" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#2E74C4"/><stop offset="1" stop-color="#1B4E96"/>
+    </linearGradient>
+    <linearGradient id="greenG" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#4CB749"/><stop offset="1" stop-color="#2E9130"/>
+    </linearGradient>
+  </defs>
+  <!-- 左峰 藍 -->
+  <path d="M92 214 C92 150 100 104 118 74 C136 104 144 150 144 214 Z" fill="url(#blueG)"/>
+  <!-- 右峰 藍 -->
+  <path d="M208 214 C208 150 200 104 182 74 C164 104 156 150 156 214 Z" fill="url(#blueG)"/>
+  <!-- 中峰 綠 -->
+  <path d="M120 214 C120 138 132 84 150 46 C168 84 180 138 180 214 Z" fill="url(#greenG)"/>
+  <rect x="84" y="222" width="132" height="16" rx="8" fill="#1B4E96"/>
+</svg>
