@@ -57,6 +57,7 @@ skills/kongchou-cis/
   SKILL.md                 CIS 規範（skill 本體）
   KCCE_CIS_brief.md        攜帶版單檔規範（貼 prompt / 上傳用）
   notebooklm_prompt.md     NotebookLM 簡報自訂提示
+  notebooklm_workflow.md   NotebookLM 簡報產出流程（step-by-step）
   assets/                  Kcce_logo.png / _white / design-tokens.json / 向量
   references/              deck-template.pptx、web-template.html 空白範本
 ```

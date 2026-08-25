@@ -110,3 +110,4 @@ description: 港洲營建事業（KONG CHOU）CIS 品牌識別。要為港洲產
 - `references/web-template.html` — 網頁 CIS 空白範本
 - `KCCE_CIS_brief.md` — 攜帶版單檔規範（貼 prompt / 上傳其他 AI 用）
 - `notebooklm_prompt.md` — NotebookLM 簡報自訂提示
+- `notebooklm_workflow.md` — NotebookLM 簡報產出流程（step-by-step）
